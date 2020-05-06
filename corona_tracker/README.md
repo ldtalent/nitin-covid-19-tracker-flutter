@@ -1,6 +1,6 @@
 # corona_tracker
 
-A new Flutter project.
+graph.dart and main.dart file contains all the logic related to the app, check pubspec.yaml for looking at the external dependencies.
 
 ## Getting Started
 
