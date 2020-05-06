@@ -1,6 +1,6 @@
 # corona_tracker
 
-graph.dart and main.dart file contains all the logic related to the app, check pubspec.yaml for looking at the external dependencies.
+graph.dart and main.dart files under /lib contains all the logic related to the app, check pubspec.yaml for looking at the external dependencies.
 
 ## Getting Started
 
