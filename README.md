@@ -1,6 +1,6 @@
 # nitin-covid-19-tracker-flutter
 
-graph.dart and main.dart file contains all the logic related to the app, check pubspec.yaml for looking at the external dependencies.
+graph.dart and main.dart file under /corona_tracker/lib/ contains all the logic related to the app, check pubspec.yaml for looking at the external dependencies.
 
 ## Getting Started
 
